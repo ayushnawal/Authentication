@@ -1,2 +1,2 @@
 # Authentication
-Using Passport , Bcrypt , Express &amp; Handlebars in a nodejs full stack app for user authentication
+Server Side Development practice with node , express routes , mongo integration && User Authentication practice using passport , bcrypt , handlebars
