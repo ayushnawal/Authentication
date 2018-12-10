@@ -1,2 +1,3 @@
 # Authentication
-Server Side Development practice with node , express routes , mongo integration && User Authentication practice using passport , bcrypt , handlebars
+Server Side Development practice with node , express routes , mongo integration && User Authentication practice using passport , bcrypt , handlebars.
+Used Postman for development environment
